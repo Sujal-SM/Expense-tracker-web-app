@@ -26,7 +26,7 @@ The Expenses Tracker App is a robust financial management solution developed usi
 
 ## Getting Started
 1. **Clone the Repository:**
-`git clone https://github.com/your-username/expenses-tracker.git`
+`git clone https://github.com/Sujal-SM/expenses-tracker.git`
 
 2. **Configure Database:**
 Set up MySQL database and update the application.properties file with your database configuration.
